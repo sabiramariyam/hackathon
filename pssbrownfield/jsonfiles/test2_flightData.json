@@ -1,0 +1,12 @@
+{
+    "flightId": 0,
+    "arrivalTime": "09:09",
+    "departureTime": "09:09",
+    "destination": "mumbai",
+    "flightName":"emirates",
+    "flightTravelDate": "2023-01-06",
+    "origin": "delhi",
+    "remainingBusinessSeats": 20,
+    "remainingEconomySeats": 20,
+    "remainingPremiumSeats": 20
+}

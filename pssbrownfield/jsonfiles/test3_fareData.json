@@ -1,0 +1,9 @@
+{
+  "fareId": 0,
+  "businessClass": 20000,
+  "economyClass": 24000,
+  "premiumClass": 40000,
+  "flight": {
+    "flightId": 9
+  }
+}

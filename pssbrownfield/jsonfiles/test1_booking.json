@@ -1,0 +1,32 @@
+{
+  "id": 0,
+  "ticketNumber": "a123",
+  "price": 1230,
+  "count": 4,
+  "seatClass": "economy",
+  "reservationDate": "2023-01-06 09:09",
+  "user": {
+    "id": 1
+  },
+  "flight": {
+    "flightId": 1
+  },
+  "passenger":[{
+    "passengerId":0,
+    "firstName":"sabira",
+    "lastName":"b",
+    "age":24,
+    "gender":"f",
+    "email":"sabira@gmail.com",
+    "phoneNumber":"72457763"
+  },
+    {
+      "passengerId":0,
+      "firstName":"mariyam",
+      "lastName":"b",
+      "age":24,
+      "gender":"f",
+      "email":"mariyam@gmail.com",
+      "phoneNumber":"72457761"}]
+}
+
